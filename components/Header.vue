@@ -401,7 +401,7 @@ letter-spacing: 0%;
   }
 
   .down {
-    zoom: 1.4;
+    zoom: 1.2;
     margin-left: 3px;
   }
   .logo {
