@@ -382,7 +382,7 @@ font-family: 'Clash Display', sans-serif;
     font-weight: 200;
     text-decoration: none;
     color: #000000;
-    font-size: 40px;
+    font-size: 35px;
 line-height: 100%;
 letter-spacing: 0%;
  font-family: 'Clash Display', sans-serif;
@@ -401,7 +401,7 @@ letter-spacing: 0%;
   }
 
   .down {
-    zoom: 1.5;
+    zoom: 1.3;
     margin-left: 3px;
   }
   .logo {
