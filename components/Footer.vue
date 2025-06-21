@@ -244,7 +244,7 @@ letter-spacing: 0%;
     flex-direction: row;
     gap: -20px; 
     text-align: right;
-    margin-right: 50px;
+    margin-right: 90px;
     margin-left: -40px;
   }
 
@@ -257,6 +257,7 @@ letter-spacing: 0%;
   gap: clamp(10px, 1vw, 20px);
   max-width: 350px;
   margin-right: 30px;
+
 }
 
 
@@ -288,7 +289,7 @@ margin-bottom: -15px;
   color: #ffffff;
   font-family: 'Outfit';
 font-weight: 100;
-line-height: 100%;
+line-height: 110%;
 letter-spacing: 0%;
 margin-bottom: 0px;
 }
