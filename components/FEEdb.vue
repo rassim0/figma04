@@ -69,7 +69,7 @@
   left: 50%;
   transform: translateX(-50%);
   background: #FFFAE5;
-  border-radius: 7px;
+  border-radius: clamp(4px, 1vw, 22px);
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
   padding: 10px;
   box-sizing: border-box;
