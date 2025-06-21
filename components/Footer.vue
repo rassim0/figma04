@@ -114,8 +114,15 @@
   display: flex;
   flex-wrap: wrap;
   justify-content: flex-start;
-  gap:2px; 
+  gap:0px; 
 }
+
+.footer-column {
+  flex: 1 1 150px;
+  min-width: 100px;
+  margin-right: -50px;
+}
+
 
 
 .logo-img {
@@ -133,11 +140,6 @@ font-weight: 300;
 line-height: 120%;
 letter-spacing: 0%;
 margin-bottom: -23px;
-}
-
-.footer-column {
-  flex: 1 1 150px;
-  min-width: 160px;
 }
 
 .mini-title {
