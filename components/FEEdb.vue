@@ -81,7 +81,7 @@
   top: clamp(38px, 2.6vw, 38px); /* slightly grows */
   z-index: 0;
   background: #FFFAE5;
-  opacity: 0.055;
+  opacity: 0.165;
   border: 0.2px solid #000000;
 }
 
@@ -90,7 +90,7 @@
   top: clamp(48px, 3.4vw, 54px); /* slightly grows */
   z-index: 1;
   background: #FFFAE5;
-  opacity: 0.4;
+  opacity: 0.5;
   border: 0.29px solid #000000;
 }
 
